@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfa9e3de-e511-42ee-bc79-ea81f736e65e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
-    </list>
+    <list default="true" id="dfa9e3de-e511-42ee-bc79-ea81f736e65e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,8 +91,8 @@
       <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -769,7 +767,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525282808425</updated>
-      <workItem from="1525282812768" duration="3360000" />
+      <workItem from="1525282812768" duration="3476000" />
     </task>
     <servers />
   </component>
@@ -780,6 +778,9 @@
     <history-entry file="CelsiusTest - 2018.05.02 at 11h 26m 57s.xml">
       <configuration name="CelsiusTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CelsiusTest - 2018.05.02 at 11h 53m 46s.xml">
+      <configuration name="CelsiusTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="CelsiusTest_testCelsius - 2018.05.02 at 11h 26m 45s.xml">
       <configuration name="CelsiusTest.testCelsius" configurationId="JUnit" />
     </history-entry>
@@ -788,7 +789,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3360000" />
+    <option name="totallyTimeSpent" value="3476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="23" width="1799" height="1135" extended-state="0" />
@@ -917,8 +918,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
